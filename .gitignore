@@ -1,0 +1,4 @@
+#Archivos Omitidos
+*node_modules
+*src
+*.json
